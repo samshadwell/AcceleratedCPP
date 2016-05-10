@@ -1,4 +1,4 @@
-// solution to 4-2 and 4-4
+// solution to 4-2 and 4-3
 #include <algorithm>
 #include <iomanip>
 #include <ios>
