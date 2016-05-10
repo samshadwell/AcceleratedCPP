@@ -27,7 +27,6 @@ int main()
         // find length of longest name
         maxlen = max(maxlen, record.name.size());
         students.push_back(record);
-        cout << "Read record: " << record.name << endl;
     }
     
     // alphabetize the student records
